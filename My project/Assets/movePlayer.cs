@@ -23,11 +23,7 @@ public class movePlayer : MonoBehaviour
         move.Set(speed * dH, rb.velocity.y);
     }
 
-    private void FixedUpdate()
-    {
-        if (Input.GetAxis)
-    }
-
+    
 
 
 }
